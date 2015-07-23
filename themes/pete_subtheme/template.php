@@ -11,6 +11,6 @@
  */
 
 function pete_subtheme_preprocess_image_style(&$vars) {
-  $vars['attributes']['class'][] = 'img-thumbnail';
-  // can be 'img-rounded', 'img-circle', or 'img-thumbnail'
+  $vars['attributes']['class'][] = 'img-responsive';
+  // http://getbootstrap.com/css/#overview-responsive-images
 }
