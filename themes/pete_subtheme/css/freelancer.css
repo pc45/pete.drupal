@@ -185,7 +185,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background: url(../images/bg/body_bg.png) repeat;
 }
 
 section.success a,
