@@ -79,10 +79,14 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.navbar-fixed-top {
+    background: #000;
+}
+
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: url(../images/bg/body_bg.png) repeat;
 }
 
 header .container {
