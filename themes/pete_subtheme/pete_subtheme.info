@@ -25,6 +25,18 @@ regions[page_bottom]    = 'Page bottom'
 ;;;;;;;;;;;;;;;;;;;;;
 
 stylesheets[all][] = css/style.css
+stylesheets[all][] = css/freelancer.css
+
+; ;;;;;;;;;;;;;;;;;;;;;
+; ;; Scripts
+; ;;;;;;;;;;;;;;;;;;;;;
+
+scripts[] = 'js/classie.js'
+scripts[] = 'js/cbpAnimatedHeader.js'
+scripts[] = 'js/jqBootstrapValidation.js'
+scripts[] = 'js/contact_me.js'
+scripts[] = 'js/freelancer.js'
+
 
 
 ; For information on choosing the desired method, please read the Drupal
